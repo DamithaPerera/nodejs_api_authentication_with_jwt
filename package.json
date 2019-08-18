@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/DamithaPerera/nodejs_api_authentication_with_jwt#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.9"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
